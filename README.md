@@ -1,2 +1,2 @@
 # planets
-SWC Workshop example repository
+Workshop example repository
